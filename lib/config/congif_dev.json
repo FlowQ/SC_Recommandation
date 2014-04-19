@@ -1,0 +1,12 @@
+{
+	"DBB": {
+		"DSN": "mysql:host=localhost;dbname=playlist_sc",
+		"DB_USERNAME": "root",
+		"DB_PASSWORD": ""
+	},
+	"SOUNDCLOUD": {
+		"APP_ID": "99ffbcec925bb866332197af68ba5d9b",
+		"APP_SECRET": "be330ddcd916ae9841c9decb18e2f5ce",
+		"CALLBACK_URL": "http://localhost:3000"
+	}
+}
